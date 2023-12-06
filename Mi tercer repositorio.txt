@@ -1,0 +1,3 @@
+Hola esta es mi prueba 3 de editar codigo  desde Visual creando y abriendo desde Gitbash
+
+Hola mundo
